@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+# SASS
+src/components/*/.sass-cache
+
+# OSX
+#
+.DS_Store
+
+# JetBrains
+/.idea/
+
+# Config IDs
+src/components/MicrosoftLogin/config.js
